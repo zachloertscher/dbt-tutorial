@@ -1,0 +1,19 @@
+
+
+============================== 2022-06-10 19:01:42.093557 | 562b33c1-0bc3-4465-9b40-6c8b8f5cbaf6 ==============================
+19:01:42.093557 [info ] [MainThread]: Running with dbt=1.1.0
+19:01:42.096019 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\Zachary.Loertscher\\.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'project_name': 'jaffle_shop', 'skip_profile_setup': False, 'which': 'init', 'indirect_selection': 'eager'}
+19:01:42.097019 [debug] [MainThread]: Tracking: tracking
+19:01:42.404928 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001D412416020>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001D4123C9840>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001D4123C96F0>]}
+19:01:42.406972 [info ] [MainThread]: Creating dbt configuration folder at C:\Users\Zachary.Loertscher\.dbt
+19:01:42.410929 [debug] [MainThread]: Starter project path: C:\Users\Zachary.Loertscher\AppData\Local\Programs\Python\Python310\lib\site-packages\dbt\include\starter_project
+19:03:23.738464 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001D4123CA440>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001D4123CAE60>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001D4123C8C70>]}
+
+
+============================== 2022-06-10 19:04:09.857129 | 5d97588c-561e-4179-915a-a452f5bdbf12 ==============================
+19:04:09.857129 [info ] [MainThread]: Running with dbt=1.1.0
+19:04:09.858413 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\Zachary.Loertscher\\.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'project_name': 'jaffle_shop', 'skip_profile_setup': False, 'which': 'init', 'indirect_selection': 'eager'}
+19:04:09.858413 [debug] [MainThread]: Tracking: tracking
+19:04:10.109794 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000287E4006170>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000287E3FBE7D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000287E3FBD9F0>]}
+19:04:10.111794 [info ] [MainThread]: A project called jaffle_shop already exists here.
+19:04:10.112799 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000287E3FBD4E0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000287E3FBE080>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000287E3FBD9F0>]}
